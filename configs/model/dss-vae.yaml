@@ -1,0 +1,18 @@
+model_cls: dss-vae
+d_model: &dm 300
+d_hidden: &dh 300
+num_layers: &nl 1
+dropout: &drop 0.1
+drop_embed: *drop
+embed_size: *dm
+share_embed: true
+bidir: true
+rnn_cell: gru
+enc_hidden_dim: *dh
+enc_num_layers: *nl
+mapper_type: link
+latent_size: 100
+dec_num_layers: *nl
+dec_hidden_dim: *dh
+use_last_output: true
+batch_first: true

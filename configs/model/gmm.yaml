@@ -1,0 +1,7 @@
+num_classes: &num 10
+n_component: *num
+num_examples: 100000
+seed: 1234
+n_iter: 1000
+delta: 0.00000001
+model_cls: syntax-gmm-vae

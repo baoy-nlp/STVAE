@@ -1,0 +1,40 @@
+home: /home/user_data55/baoy/
+input_dir: &id /home/user_data55/baoy/data/paraphrase/Twitter/pvae
+extract_files:
+  - train.ori
+  - train.par
+  - valid.ori
+  - valid.par
+  - test.ori
+  - test.par
+suffix: clean
+target_dir: *id
+tree_type: &ty s2b
+# The below parameter is used for save to the target dir
+langs:
+  - ori.sent
+  - par.s2b
+  - par.sent
+train_pref: train
+valid_pref: valid
+test_pref: test
+max_lens:
+  - -1
+  - -1
+  - -1
+max_nums:
+  - -1
+  - -1
+  - -1
+task: Para-VAE
+# data format
+destdir: /home/user_data55/baoy/data/paraphrase/Twitter/pvae/s2b # the processed data dir
+vocab_file: /home/user_data55/baoy/data/paraphrase/Twitter/pvae/s2b/vocab_ori.sent-par.s2b-par.sent.bin # vocab
+vocab_sizes:
+  - 40000
+  - 300
+freq_cutoffs: 1
+mode: ~
+dataset: Twitter
+data_desc: *ty
+data_type: bin

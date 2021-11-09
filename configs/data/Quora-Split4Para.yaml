@@ -1,0 +1,9 @@
+origin_dir: /home/user_data55/baoy/data/Quora/
+origin_file: pair/full.paraphrase.con.txt
+split_dir: paraphrase
+split_suffix: .con-pair.txt
+train_size: 100000
+valid_size: 3000
+test_size: 10000
+mode: split
+seed: 19931130

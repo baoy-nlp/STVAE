@@ -1,0 +1,54 @@
+# data params
+batch_size: 2048
+sort_key: src
+eval_batch_size: 512
+update_freq: 1
+cuda: true
+gpu: 0
+num_gpus: 1
+exp_dir: /home/user_data55/baoy/experiments/dss-vae
+max_len: 35
+syn_max_len: 110
+vocab_key_words: src
+
+# train params:
+log_every: 10
+eval_every: 250
+valid_item: BLEU
+warm_up: 1000
+
+# optimizer params
+optim_type: adam
+betas:
+  - 0.9
+  - 0.995
+lr: 0.001
+clip_grad: 1.0
+
+# scheduler params
+scheduler_cls: metric
+patience: 8
+reset_optimizer: false
+lr_decay: 0.8
+min_lr: 0.000001
+cmp_func: low
+
+# criterion params
+unk_rate: 0.5
+wd_anneal_funcs: fixed
+kl_anneal_funcs: logistic
+k: 0.0025
+x0: 5000
+kl_factor: 0.5
+norm_by_word: false
+adv_training: true
+mul_sem: 1.0
+mul_syn: 1.0
+adv_sem: 0.1
+adv_syn: 0.1
+rec_sem: 0.1
+rec_syn: 0.1
+kl_sem: 1.0
+kl_syn: 1.0
+
+verbose: true

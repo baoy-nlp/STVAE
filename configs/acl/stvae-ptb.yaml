@@ -1,0 +1,23 @@
+model_cls: syntax-tvae
+d_model: &dm 100
+d_hidden: &dh 100
+num_layers: &nl 3
+dropout: &drop 0.1
+drop_embed: *drop
+embed_size: *dm
+share_embed: true
+bidir: true
+rnn_cell: gru
+enc_hidden_dim: *dh
+enc_num_layers: *nl
+mapper_type: link
+latent_size: 100
+dec_num_layers: *nl
+dec_hidden_dim: *dh
+use_last_output: true
+batch_first: true
+
+# append for gmm-vae
+num_components: 20
+init_temp: 1.0
+hard_gumbel: 0.5

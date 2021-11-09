@@ -1,0 +1,23 @@
+model_cls: dss-gmm-vae
+d_model: &dm 300
+d_hidden: &dh 300
+num_layers: &nl 2
+dropout: &drop 0.1
+drop_embed: *drop
+embed_size: *dm
+share_embed: true
+bidir: true
+rnn_cell: gru
+enc_hidden_dim: *dh
+enc_num_layers: *nl
+mapper_type: link
+latent_size: 100
+dec_num_layers: *nl
+dec_hidden_dim: *dh
+use_last_output: true
+batch_first: true
+
+# append for gmm-vae
+num_components: 5
+init_temp: 1.0
+hard_gumbel: 0.0

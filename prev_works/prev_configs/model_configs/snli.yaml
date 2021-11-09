@@ -1,0 +1,22 @@
+base_configs:
+  # file configs:
+  train_file: /mnt/cephfs_hl/bytetrans/baoyu.nlp/data/bin/snli-s2b/train.bin
+  dev_file: /mnt/cephfs_hl/bytetrans/baoyu.nlp/data/bin/snli-s2b/dev.bin
+  test_file: /mnt/cephfs_hl/bytetrans/baoyu.nlp/data/bin/snli-s2b/test.bin
+  vocab: /mnt/cephfs_hl/bytetrans/baoyu.nlp/data/bin/snli-s2b/vocab.bin
+  eval_lists:
+    - /mnt/cephfs_wj/common/lab/baoyu.nlp/data/iwslt/bpe_level/valid.de.token.lower
+  logdir: /mnt/cephfs_hl/bytetrans/baoyu.nlp/experiments/dss_vae/logs
+  model_dir: /mnt/cephfs_hl/bytetrans/baoyu.nlp/experiments/dss_vae/models
+  exp_name: ~
+  task_type: SyntaxVAE2
+  # train configs
+  start_iter: 0
+  batch_size: 50
+  log_every: 50
+  dev_every: 1000
+  lr: 0.0005
+  lr_decay: 0.8
+  patience: 8
+  clip_grad: 5.0
+  reset_optimizer: false

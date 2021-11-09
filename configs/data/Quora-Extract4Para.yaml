@@ -1,0 +1,12 @@
+input_dir: /home/user_data55/baoy/data/Quora/paraphrase/
+extract_files:
+  - train.ori
+  - train.par
+  - valid.ori
+  - valid.par
+  - test.ori
+  - test.par
+suffix: clean
+target_dir: /home/user_data55/baoy/data/Quora/paraphrase/
+tree_type: ~
+mode: extract

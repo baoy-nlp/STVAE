@@ -1,0 +1,46 @@
+home: /home/user_data55/baoy/
+input_dir: &id /home/user_data55/baoy/data/Twitter/dss-vae
+extract_files:
+  - train
+  - valid
+  - test
+suffix: clean
+target_dir: *id
+tree_type: &ty s2b
+# The below parameter is used for save to the target dir
+train_pref: train
+valid_pref: valid
+test_pref: test
+langs:
+  - sent
+  - *ty
+max_lens:
+  - -1
+  - -1
+max_nums:
+  - -1
+  - -1
+# above used for data setting
+task: DSS-VAE # data format
+destdir: /home/user_data55/baoy/data/Twitter/dss-vae/s2b # the processed data dir
+vocab_file: /home/user_data55/baoy/data/Twitter/dss-vae/s2b/vocab_sent-s2b.bin # vocab
+vocab_sizes:
+  - 30000
+  - 300
+freq_cutoffs: 1
+mode: test
+dataset: Twitter
+data_desc: *ty
+data_type: raw
+
+# below is used for testing
+
+train_files:
+  - /home/user_data55/baoy/data/Twitter/paraphrase/train.ori.sent
+  - /home/user_data55/baoy/data/Twitter/paraphrase/train.par.sent
+valid_files:
+  - /home/user_data55/baoy/data/Twitter/paraphrase/valid.ori.sent
+  - /home/user_data55/baoy/data/Twitter/paraphrase/valid.par.sent
+test_files:
+  - /home/user_data55/baoy/data/Twitter/paraphrase/test.ori.sent
+  - /home/user_data55/baoy/data/Twitter/paraphrase/test.par.sent

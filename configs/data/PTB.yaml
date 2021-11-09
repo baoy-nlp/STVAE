@@ -1,0 +1,35 @@
+home: /home/user_data55/baoy
+input_dir: /home/user_data55/baoy/data/PTB/raw-from-HL
+target_dir: /home/user_data55/baoy/data/PTB/dss-vae
+tree_type: &ty s2b # linearized format for PTB data
+suffix: clean # tree format files' suffix
+extract_files:
+  - train # train.clean
+  - dev # dev.clean
+  - test # test.clean
+# The above parameters process the PTB format data to Linearized Tree data.
+
+train_pref: train
+valid_pref: dev
+test_pref: test
+langs:
+  - sent
+  - *ty
+max_lens:
+  - -1
+  - -1
+max_nums:
+  - -1
+  - -1
+task: DSS-VAE
+destdir: /home/user_data55/baoy/data/PTB/dss-vae/s2b
+vocab_sizes:
+  - 30000
+  - 300
+freq_cutoffs: -1
+vocab_file: /home/user_data55/baoy/data/PTB/dss-vae/s2b/vocab_sent-s2b.bin
+# above parameter used for processing, training, and testing.
+
+dataset: PTB
+data_desc: *ty
+data_type: bin

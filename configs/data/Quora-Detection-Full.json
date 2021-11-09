@@ -1,0 +1,15 @@
+{
+  "data_dir": "../resource/quora/detection",
+  "embeddings_file": "None",
+  "target_dir": "../resource/preprocess/quora-detection-full",
+  "lowercase": false,
+  "ignore_punctuation": false,
+  "num_words": null,
+  "stopwords": [],
+  "labeldict": {
+    "0": 0,
+    "1": 1
+  },
+  "bos": "_BOS_",
+  "eos": "_EOS_"
+}

@@ -1,0 +1,39 @@
+home: /home/user_data55/baoy/
+input_dir: /home/user_data55/baoy/data/Quora/dss-vae
+train_pref: train
+valid_pref: valid
+test_pref: test
+tree_type: &ty s2b
+langs:
+  - sent
+  - *ty
+max_lens:
+  - 30
+  - -1
+max_nums:
+  - -1
+  - -1
+task: DSS-VAE
+destdir: /home/user_data55/baoy/data/Quora/dss-vae/s2b
+vocab_file: /home/user_data55/baoy/data/Quora/dss-vae/s2b/vocab_sent-s2b.bin
+vocab_sizes:
+  - 30000
+  - 300
+freq_cutoffs: -1
+mode: ~
+dataset: Quora
+data_desc: *ty
+# above is used for training
+data_type: raw
+
+# below is used for testing
+
+train_files:
+  - /home/user_data55/baoy/data/Quora/paraphrase/train.ori.sent
+  - /home/user_data55/baoy/data/Quora/paraphrase/train.par.sent
+valid_files:
+  - /home/user_data55/baoy/data/Quora/paraphrase/valid.ori.sent
+  - /home/user_data55/baoy/data/Quora/paraphrase/valid.par.sent
+test_files:
+  - /home/user_data55/baoy/data/Quora/paraphrase/test.ori.sent
+  - /home/user_data55/baoy/data/Quora/paraphrase/test.par.sent

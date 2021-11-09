@@ -1,0 +1,600 @@
+=========Case:0=========
+input:colorado researchers turn beer waste into battery electrodes
+-------------------------
+colorado researchers turn beer waste into battery electrodes
+colorado researchers turn beer waste into battery electrodes
+colorado researchers turn beer waste into battery electrodes
+=========Case:1=========
+input:nearly 6,000 women responded to a nyt call @-@ out about their lives in saudi arabia
+-------------------------
+saudi women women to saudi women in the new york city of your child to saudi arabia
+nearly 6 , 000 women responded to a nyt call @-@ out about their lives in saudi arabia
+nearly 6 , 000 women responded to a muslim attack on a muslim refugees
+=========Case:2=========
+input:a look inside the offices of washington officials
+-------------------------
+a look at the offices of washington officials
+a look inside the offices of washington officials
+a look inside the offices of washington officials
+=========Case:3=========
+input:hyperloop one will build the first hyperloop system to go from dubai to abu dhabi in twelve minutes
+-------------------------
+hyperloop one will build the first hyperloop system to go from dubai to abu dhabi in twelve minutes
+hyperloop one will build the first hyperloop system to go from dubai to abu dhabi in twelve minutes
+hyperloop one will build the first hyperloop system to go from dubai to abu dhabi in twelve minutes
+=========Case:4=========
+input:donald trump pledged to &quot; heal divisions &quot; at a speech at gettysburg
+-------------------------
+donald trump pledges to heal divisions the air force one order from boeing
+donald trump pledges to heal divisions
+donald trump pledges to heal divisions within a new york times in florida
+=========Case:5=========
+input:the majority of trump supporters surveyed described black people as &quot; less evolved
+-------------------------
+the majority of trump threatens to cross trump americans are less evolved
+madam president , the @ nytimes this is the right thing .
+the majority of trump supporters surveyed described black people as &quot ; less evolved
+=========Case:6=========
+input:45 % of the university of california &apos;s full @-@ time administrative workers sometimes go hungry , study finds
+-------------------------
+watch the full story of the day a week in the world series
+top story in the dead at 60 @-@ hanger abortion is from their parents , but researchers say
+45 % of americans , a half of americans , according to a new year .
+=========Case:7=========
+input:donald trump called mike tyson rape conviction &quot; a travesty &quot; in a 1992 radio interview
+-------------------------
+donald trump called mike tyson rape conviction a travesty &quot ; in 1992 radio interview
+donald trump blasts mike tyson rape conviction a newspaper in a walk of his rally
+donald trump calls out beyonc and racist comments , a him in a
+=========Case:8=========
+input:iraqi forces have entered mosul , isis last major stronghold in iraq
+-------------------------
+iraqi forces have entered mosul , isis last major stronghold in iraq
+iraqi forces have entered mosul , iraqi forces inflict &apos ; heavy losses on isis .
+iraqi forces have entered mosul , isis last major stronghold in iraq .
+=========Case:9=========
+input:nintendo gives a first look at its new console
+-------------------------
+crypt believed to be jesus tomb opened for first time in centuries
+nintendo gives you a new nes classic edition and all 30 games
+nintendo gives a new startup for its new console
+=========Case:10=========
+input:singer @-@ songwriter bob dylan awarded the 2016 nobel prize in literature
+-------------------------
+singer @-@ songwriter bob dylan awarded the 2016 nobel prize in literature
+singer @-@ songwriter bob dylan awarded the 2016 nobel prize in literature
+singer @-@ songwriter bob dylan awarded the 2016 nobel prize in literature
+=========Case:11=========
+input:sec chair mary jo white says she will step down at the end of the obama administration .
+-------------------------
+sec chair mary jo white says she will step down at the end of the obama administration .
+sec chair mary jo white says she will step down as the first time to the new york times
+sec chair mary jo white says she will step down at the end of the obama administration .
+=========Case:12=========
+input:we need to clean this up clinton aide cried foul on obama &apos;s email denial
+-------------------------
+we need to clean this up clinton aide cried foul on obama email denial
+clinton aide cried foul on obama &apos ; s email denial
+we need to clean this up . clinton aide cried foul on obama email denial
+=========Case:13=========
+input:donald trump chose reince priebus as his chief of staff and steve bannon as a chief strategist and senior counselor
+-------------------------
+donald trump chose reince priebus as his chief of staff and steve bannon as a chief strategist and senior counselor
+donald trump chose reince priebus as his chief of staff and steve bannon as a chief strategist and senior counselor
+and earth @-@ elect trump and reince priebus as chief of staff and steve bannon as a chief strategist and senior counselor .
+=========Case:14=========
+input:volkswagen has abruptly parted ways with the historian who chronicled its nazi past
+-------------------------
+volkswagen has abruptly parted ways with the historian who chronicled its nazi past
+volkswagen has abruptly parted ways with the historian who chronicled its nazi past
+volkswagen has abruptly parted ways with the historian who chronicled its nazi past
+=========Case:15=========
+input:chimamanda ngozi adichie writes a thank @-@ you note to michelle obama
+-------------------------
+chimamanda ngozi adichie writes a thank @-@ you note to michelle obama
+chimamanda ngozi adichie writes a thank you , thank you , thank you , michelle obama
+chimamanda ngozi adichie writes a thank @-@ you note to michelle obama
+=========Case:16=========
+input:hillarys humayun khan ad is brutal to watch and devastatingly effective
+-------------------------
+hillarys humayun khan ad is brutal to watch and devastatingly effective
+hillarys new humayun khan ad is brutal to watch and devastatingly effective
+hillarys humayun khan ad is brutal to watch and devastatingly effective
+=========Case:17=========
+input:a sunken , 600 @-@ year @-@ old buddha has emerged from the water in china
+-------------------------
+the u.s. military suffered its first combat death in the u.s. , officials say .
+a sunken , 600 @-@ year @-@ old buddha has emerged as a major websites
+a sunken , 600 @-@ year @-@ old buddha has emerged from a water in china
+=========Case:18=========
+input:the mannequin challenge still fun , not yet ruined by adults
+-------------------------
+the mannequin challenge is not , but not responsible for smoking
+a colorado presidential debate is now a heart of giving it is trying to steal it
+a new study shows how religious experiences with activate the same reward systems in your brain .
+=========Case:19=========
+input:20 years ago , america embraced genetically modified crops . despite the promise of miracles , they &apos;ve fallen short .
+-------------------------
+42 years ago , he genetically modified crops . the people of time . time , i have said .
+federal judge in the registration in florida for democratic governor in key states
+24 hours ago 3 , 2016 at 12 : 34 am the 2016 campaign of genetically modified crops
+=========Case:20=========
+input:cory booker seizes big moment with historic move to testify against another sitting senator
+-------------------------
+obama awards famed architect frank gehry with the presidential medal of freedom .
+carter suspends pentagons demand of the return of cash bonuses to california soldiers
+cory booker seizes big banks for power leader to another term as prime minister
+=========Case:21=========
+input:protests over race relations have roiled sports . the giants met with cory booker to find ways to get involved .
+-------------------------
+dems have predicted trump in the first act as president @-@ elect donald trump
+thousands of children are facing dumb to protest the election . how to name the race to senate race to .
+# <unk> is a # <unk> # <unk> # <unk> # <unk> # <unk> # <unk> # <unk> # <unk> # <unk>
+=========Case:22=========
+input:c @-@ span &apos;s online broadcast was interrupted by rt , a state @-@ run russian tv network
+-------------------------
+un security council passes to the 1st time since 2001 pardon of freedom for the nyt
+afghan woman named after # afghan vice president @-@ founder of fake news is using this photo is wide receiver kneels for national anthem .
+top @-@ read story justice thomas was interrupted by russia , calling for a ban on muslims and
+=========Case:23=========
+input:boston police were searching for gunman who left 2 officers wounded
+-------------------------
+two police officers killed in ambush @-@ style attacks
+boston police were searching for gunman who left 2 officers wounded
+boston police were searching for gunman who left 2 officers wounded in shooting
+=========Case:24=========
+input:north carolina is using &quot; insane &quot; jim crow @-@ style voter suppression .
+-------------------------
+north carolina is finally jim crow @-@ style voter intimidation in north carolina .
+north carolina early voting , a bid for a special legislative coup , a dem party .
+north carolina is a coup is a terrifying attack on democracy .
+=========Case:25=========
+input:india &apos;s practo raises $ 55m to expand its healthcare platform to more emerging markets
+-------------------------
+apple employees are going to build a $ 500 company , @ <unk>
+london 5 practo raises $ 55m to expand its healthcare platform to help developers easily
+amazon plans to launch consortium to help developers build in @-@ car apps
+=========Case:26=========
+input:billy bush is officially out at nbc
+-------------------------
+billy bush is officially out at nbc
+billy bush is officially out at nbc news
+billy bush is officially out at nbc
+=========Case:27=========
+input:russia loses its seat on the un human rights council by just 2 votes
+-------------------------
+russia loses its seat on the un human rights council by just 2 votes
+russia loses its seat on the un human rights council to end the us elections
+russia loses its seat on the un human rights council by just 2 votes
+=========Case:28=========
+input:donald trump has set a time bomb for racial violence on election day
+-------------------------
+donald trump has set a time bomb for racial violence on election day
+donald trump is setting a time bomb for racial violence on election day
+trump setting a time bomb for racial violence on election day
+=========Case:29=========
+input:a newborn baby girl abducted from a hospital in florida has been found alive 18 years later , sheriff says
+-------------------------
+a second man who died after a shooting in the fatal shooting of state , state university , report says .
+a parrot fossil has been unearthed in siberia .
+a newborn baby girl abducted from a man in august with scores 7 murders , according to school , police .
+=========Case:30=========
+input:why wouldn &apos;t facebook let me post death threats i received from trump supporters
+-------------------------
+why wouldnt facebook let me post death threats i receive from trump supporters
+why wouldn &apos ; t facebook let me post death threats i receive from trump supporters
+why @ facebook friends , and maybe . facebook is maybe . maybe not so much , trump insiders say
+=========Case:31=========
+input:an agent shot a boy across the u.s. border . can his parents sue
+-------------------------
+an agent shot a boy across the u.s. border . can his parents sue
+after a trip back in the history of new york city , is a day of pilots .
+an agent shot in a boy across the u.s. border .
+=========Case:32=========
+input:bob dylan won &apos;t attend the nobel ceremony next month to accept the nobel prize in literature
+-------------------------
+bob dylan won the 2016 nobel to the next nobel prize in literature and the man for
+bob dylan won the nobel prize in literature
+bob dylan won the nobel prize in literature , but the great , and others
+=========Case:33=========
+input:linda bean calls anti @-@ trump boycotts &apos; un @-@ american , &apos; form of bullying
+-------------------------
+world news- anti @-@ trump @-@ elect , anti @-@ trump @-@ old and chief operating
+rachel bloom leads a profane anti @-@ trump anthem in the style of &quot ; we are the world
+portland police say anti @-@ trump protest is a riot
+=========Case:34=========
+input:trump mistook a black supporter at his rally for a protestor and called him a &quot; thug
+-------------------------
+trump mistook a black supporter at his rally for using with a protestor and called him a
+trump mistook a black supporter at his rally for a protestor and called him a &quot ; thug
+trump mistook a black supporter at his rally for a protestor and called him a thug
+=========Case:35=========
+input:joe biden on anthony weiner i &apos;m not a big fan .
+-------------------------
+mark wahlberg on anthony weiner i was not a big fan .
+joe biden on anthony weiner i was a big fan .
+joe biden on anthony weiner i &apos ; m not a big fan .
+=========Case:36=========
+input:repealing obamacare will hand a nauseating tax cut to the rich
+-------------------------
+repealing obamacare will cost $ 350 billion over 50 % of the aca
+repealing obamacare will hand out of a $ 350 billion over the senate , a move to a tweet
+repealing obamacare will hand a nauseating tax cut to the rich
+=========Case:37=========
+input:vice president @-@ elect pence to take over trump transition role from christie new york times
+-------------------------
+vice president @-@ elect pence to take over trump transition role from christie new york times
+vice president @-@ elect mike pence is taking over the trump transition from chris christie
+vice president @-@ elect pence to take over trump transition role from christie new york times
+=========Case:38=========
+input:spoiler alert raises $ 2.5 million to stop food waste , abate hunger
+-------------------------
+spoiler alert raises $ 2.5 million to stop food waste , abate hunger
+spoiler alert raises $ 2.5 million to stop food waste , abate hunger
+spoiler alert raises $ 2.5 million to stop food waste , abate hunger
+=========Case:39=========
+input:abortion rate hits historic low in the us , report finds
+-------------------------
+obama to deliver farewell speech in chicago , the new york times
+chicago rate hits historic low in the u.s. , says no
+obama races remain in the us election day
+=========Case:40=========
+input:i don &apos;t know &quot; if trump will be better for supreme court than clinton
+-------------------------
+dont take donald trump to dinner but here is the latest list of nominees are going to be
+i think @ realdonaldtrump vote i would be voted for donald trump for clinton
+you can be considered for the next us ? senate confirmation hearings to begin without all background checks
+=========Case:41=========
+input:the start of the end for environmental protections
+-------------------------
+the house science committee is often in the wake of the social wars
+the fight for global weapons sales of the # iot strategy to the new york times
+the start of the end of environmental protections
+=========Case:42=========
+input:trump &apos;s grope for power degrades democracy my piece today .
+-------------------------
+trump is a happy new year to be an adult .
+trump thinks snl is rigging the election , but should be cancelled
+trump calls cost of drug test for my old court .
+=========Case:43=========
+input:on # electionday , donald trump still signals he may not accept the results
+-------------------------
+on # electionday , donald trump still signaling he may not accept results
+on # electionday , donald trump still signals he may not accept the results .
+on # electionday , donald trump still signals he may not accept the results
+=========Case:44=========
+input:martin luther king jr. life lessons that can prepare americans for a trump presidency
+-------------------------
+encabezado de hoy how to kill a bag of children and the most powerful women in the
+web design muslim teacher fear trump he can kiss by a crackdown on women
+trump is a national security threat , but not his equal opportunity for his sleep training nightmare
+=========Case:45=========
+input:new york times report two women accuse donald trump of touching them inappropriately
+-------------------------
+new york times report two women accuse donald trump of touching them inappropriately
+new york times report two women accuse donald trump of touching them inappropriately
+new york times most viewed stories of trump rally in a new york times
+=========Case:46=========
+input:wells fargo said account openings have taken a nose @-@ dive since the scandal over illegal activity at the bank erupted
+-------------------------
+wells fargo killing sham account suits by using arbitration the new york times
+wells fargo finds that have been found on a hand sanitizer all over the hand sanitizer all over the election day
+justice department said that adam bain , it will pay for the wall .
+=========Case:47=========
+input:some americans are cutting up trump ties , canceling stays at trump hotels and no longer drinking trump wines
+-------------------------
+some americans are cutting up trump ties , canceling stays at trump hotels .
+some americans are not to pay for donald trump , and the gop to pay for border wall
+some americans are cutting up trump ties , canceling stays at trump hotels and no longer drinking trump wines
+=========Case:48=========
+input:uk government must consult parliament before triggering article 50 to leave eu , high court rules
+-------------------------
+uk government must consult parliament before triggering article 50 to leave eu , high court rules
+uk government must consult parliament before triggering article 50 to leave eu , high court rules
+uk government must consult parliament before triggering article 50 to leave eu , but the country
+=========Case:49=========
+input:david letterman shop at target these days
+-------------------------
+david letterman shop at target these days
+david letterman shop at target these days
+david letterman shop at target these days .
+=========Case:50=========
+input:russian officials were in contact with trump advisers during the presidential campaign , a russian diplomat says
+-------------------------
+russian officials were in contact with trump advisers during the presidential campaign , a russian diplomat says
+russian officials were in contact with trump advisers during the presidential campaign , a russian diplomat says
+russian officials were in contact with trump advisers during the presidential campaign , a russian diplomat says
+=========Case:51=========
+input:while you weren &apos;t looking , donald trump released a plan to privatize america &apos;s roads
+-------------------------
+while you were looking , donald trump released a plan to privatize america , and bridges
+while you werent looking , donald trump released a plan to privatize america &apos ; s roads and bridges .
+while we werent looking , donald trump released a plan to privatize america &apos ; s roads
+=========Case:52=========
+input:the majority of trump supporters surveyed described black people as &quot; less evolved
+-------------------------
+the future of trump threatens to cross trump americans are less evolved
+the trump supporter is not normal . it demeans the presidency .
+the democratic party establishment is finished after trump
+=========Case:53=========
+input:family of australia cricketer phillip hughes walk out of inquest into his death
+-------------------------
+family of australia cricketer phillip hughes walk out of inquest into his death
+family of australia cricketer phillip hughes walk out of inquest into his death
+family of australia cricketer phillip hughes walk out of inquest into his death
+=========Case:54=========
+input:billy bush is negotiating his exit from nbc after the release of the lewd donald trump tape
+-------------------------
+billy bush is negotiating his exit from nbc after the release of the lewd donald trump tape
+billy bush is negotiating his exit from nbc after the release of the lewd donald trump tape
+billy bush is negotiating his exit from nbc after the release of the lewd donald trump tape
+=========Case:55=========
+input:no , you cannot vote in the us presidential election by text message .
+-------------------------
+no , you vote not on the presidential election via the latest election .
+we are not to vote in election . we will not accept the results .
+no , you can not vote in the us presidential election by text message .
+=========Case:56=========
+input:nfl teams will now be fined for posting videos and gifs duringgames
+-------------------------
+nfl teams will now be fined for posting videos and gifs duringgames
+nfl teams will now be fined for posting videos and gifs duringgames
+nfl teams will now be fined for posting videos and gifs duringgames
+=========Case:57=========
+input:saudi prince executed for shooting man dead during mass brawl three years ago outside riyadh
+-------------------------
+saudi prince executed for shooting man dead during mass brawl three years ago outside riyadh
+saudi prince executed for shooting during the shooting , a dead , a dead .
+saudi prince executed for shooting man dead during mass brawl three years ago outside riyadh
+=========Case:58=========
+input:cnn &apos;s latest electoral college map shows gains for donald trump
+-------------------------
+cnn / top 5 electoral college map donald trumps victory speech
+trumps electoral college victory ranks 46th in 58 elections
+fears for electoral college fail , anti @-@ trump forces look for new york times
+=========Case:59=========
+input:microsoft is now a braver , more innovative company than apple
+-------------------------
+microsoft is now a braver , more innovative company than apple
+microsoft is now a braver , more innovative company than apple
+microsoft is now a braver , more innovative company than apple
+=========Case:60=========
+input:shottracker raises $ 5m in seed funding from magic johnson to bring real @-@ time analytics to nba teams
+-------------------------
+shottracker raises $ 5m in seed funding from magic johnson to bring real @-@ time analytics to nba teams
+shottracker raises $ 5m in seed funding from magic johnson to bring real @-@ time analytics to nba teams
+shottracker raises $ 5m in seed funding from magic johnson to bring real @-@ time analytics to nba teams
+=========Case:61=========
+input:google and facebook are building the fastest trans @-@ pacific cable yet
+-------------------------
+google and facebook are building the fastest trans @-@ pacific cable yet
+google and facebook are building the fastest trans @-@ pacific cable yet
+google and facebook are building the fastest trans @-@ pacific cable yet .
+=========Case:62=========
+input:you signed a pledge rick santorum calls out john kasich and several fellow republicans
+-------------------------
+you signed a pledge rick santorum calls out john kasich over a pledge to repeal obamacare alternative
+you signed a pledge rick santorum calls out john kasich and several fellow republicans
+you signed a pledge rick santorum calls out john kasich and several fellow republicans
+=========Case:63=========
+input:madam president , &quot; said the would @-@ be @ nytimes headline
+-------------------------
+madam president , the new york times interview , the new york times interview , the new york times
+madam president , who wants to be the president @ nytimes headline
+hillary clinton , donald trump answer , a new hope for the first time in america
+=========Case:64=========
+input:mark duplass was 14 when he first fell in love . but things slowly became more complicated .
+-------------------------
+retweeted nate cohn has changed the new york times , and how much is it .
+mark duplass was 14 days to visit . i was speaking spanish on the phone , then .
+mark duplass was 14 when i am saddened i heard from the world i saw in on the first time ever .
+=========Case:65=========
+input:donald trump reported gross revenue , as opposed to net income after expenses , on his financial disclosure forms
+-------------------------
+donald trump reported gross revenue , as opposed to net income after expenses , on his financial disclosure forms
+donald trump built a wall in scotland , then sent residents the bill
+donald trump reported gross revenue , as opposed to net income after expenses , on his financial disclosure forms
+=========Case:66=========
+input:wikileaks posts an additional 2,000 emails that appear to be from the account of john podesta
+-------------------------
+wikileaks posts more john podesta emails , source says
+wikileaks posts an additional campaign to emails that to be from the account of john podesta
+bad news is bad ? wells fargo ceo john podesta was a $ 1.25 million in support of the
+=========Case:67=========
+input:trump , aka &quot; the other donald trump , &quot; says he &apos;ll be voting for hillary clinton
+-------------------------
+hillary clinton has a 12 @-@ point lead over donald trump .
+trump is not very popular , and his meeting with women , and hillary clinton
+trump , a vote , donald trump , hillary clinton , donald trump has done for hillary clinton
+=========Case:68=========
+input:chinese president xi jinping no one can win a trade war
+-------------------------
+xi jinping may be rigged , but not the core leader of china , china announced that he will not remain silent if trump goes too
+chinese president xi jinping and the obama is the threat name
+international relations stories vladimir putin fan follow the return of drone seized by chinese warship
+=========Case:69=========
+input:why do our recorded voices sound so weird to us
+-------------------------
+people are going to snap more women instead of what we are feeling what not having hope feels like
+what the next us ? we should have to vote for trump
+why do our recorded voices sound so weird to do
+=========Case:70=========
+input:it &apos;s not like we &apos;re going to get our breasts back . some women decide against reconstruction after a mastectomy .
+-------------------------
+it sounds like to be . that are a say . find out to get rid of a human defense .
+what it is like to treat opioid addiction . we should just cancel the election .
+the idea what we &apos ; re going to be a weapon ? they say they &apos ; re going to get started .
+=========Case:71=========
+input:texas agriculture commissioner describes election as &quot; trump &quot; vs .
+-------------------------
+texas agriculture commissioner calls hillary clinton in election is now
+texas agriculture commissioner sid miller called hillary clinton
+texas ag commissioner calls hillary clinton the c @-@ word on twitter @ cnnpolitics
+=========Case:72=========
+input:batman rescues kids and adults from creepy clowns
+-------------------------
+first came to the first female , and texas baby who was born twice .
+drone delivery by robot that teaches kids to code
+scientists claim that earnings while many in <unk>
+=========Case:73=========
+input:a trip to the toronto suburbs for excellent , cheap chinese food
+-------------------------
+a trip to the toronto suburbs for excellent , cheap chinese food
+the first step for the toronto suburbs for excellent , cheap chinese food
+a trip to the toronto suburbs for excellent , cheap chinese food
+=========Case:74=========
+input:do you have information about abortions trump may have paid for ? let us know .
+-------------------------
+do you have information about abortions trump may have paid for ? let us know .
+what do you want to get trump ? trump brags he doesn &apos ; t want them
+do you have information about abortions trump may have paid for ? let us know .
+=========Case:75=========
+input:here we go again samsung just recalled millions of washing machines for exploding
+-------------------------
+here we go again samsung just recalled millions of washing machines for exploding
+yahoo makes it difficult to help developers build their car service
+here we go again samsung tells users turn off your galaxy note 7 phone
+=========Case:76=========
+input:donald trump has a 2 @-@ point edge in a new florida poll
+-------------------------
+donald trump has a 2 @-@ point edge in a new florida poll
+trump has 2 @-@ point edge in new florida poll
+donald trump has a 2 @-@ point edge over a new florida poll
+=========Case:77=========
+input:if you &apos;re trying to flee yahoo mail , things just became a little more difficult
+-------------------------
+if you dont know about the election , and how to stop it , and maybe your country is
+this is a good thing that it is not to stop believing that it worth it
+if you dont want to know about anything , we need to take a more difficult
+=========Case:78=========
+input:yes , goat yoga is a thing and hundreds of people are lining up for it
+-------------------------
+even if you might be a better person in 2017
+yes , goat yoga is like a good thing , just like a lot like depression
+we are not planning on erecting a deportation force .
+=========Case:79=========
+input:amazon rolls out rapids , a chat style reading app for kids
+-------------------------
+amazon rolls out rapids , a chat style reading app for kids
+amazon rolls out rapids , a chat style reading app for kids
+amazon rolls out rapids , a chat style reading app for kids
+=========Case:80=========
+input:the british government backs a plan for a 3rd runway at heathrow
+-------------------------
+british government backs a plan for a 3rd runway at heathrow
+the british government backs a plan for a 3rd runway at heathrow
+the british government backs plan for 3rd runway at heathrow
+=========Case:81=========
+input:don &apos;t move to canada , liberals . move to a swing state
+-------------------------
+forget that to close ? job , could be more of state jobs
+canada , the eu , canada , canada , but not to canada to remind us how russia
+house republicans don &apos ; t need to move a # health anymore . now they will go to .
+=========Case:82=========
+input:donald trump &apos; grabbed me and went for the lips &apos; , says new accuser
+-------------------------
+donald trump and the election map for the right , rigged election
+donald trump cancels interview , with the lips and the new york and @ nytimes
+kellyanne conway , who is not for the white house . but rudy giuliani shouldnt be talking like donald trump
+=========Case:83=========
+input:donald trump &apos;s language has stirred increasing fears of intimidation of minorities inside polling places
+-------------------------
+donald trump outlines plan for his first 100 days of his tower
+donald trumps victory fidel has become just in a lot of intimidation of minorities into
+trump named time of the year &apos ; s hacking of the election
+=========Case:84=========
+input:time spent on social media could be associated with a longer life , a study found
+-------------------------
+time spent on social media could be associated with a longer life , a study found
+time spent on social media could be associated with a longer life
+time spent on social media could be associated with a longer life , a study found
+=========Case:85=========
+input:as china &apos;s deserts expand , people who live on their edges are becoming climate refugees
+-------------------------
+the pentagon says it will return seized navy drone seized by chinese warship
+as # china , not # refugees to # drinking # us # fashion # bloggers
+if water machine learning , kids , are us about how about to your in china
+=========Case:86=========
+input:netflix shakes off weak subscriber growth and its stock is skyrocketing
+-------------------------
+netflix shakes off weak subscriber growth and its stock is skyrocketing
+netflix shakes off weak subscriber growth and its stock is skyrocketing
+netflix shakes off weak subscriber growth and its stock is skyrocketing
+=========Case:87=========
+input:on issue after issue , donald trumps statements conflict with many un positions . here are the major examples .
+-------------------------
+the media is donald trump tape . a &apos ; s not planning on a new york times
+on issue after issue , donald trumps statements conflict with many un positions . here are the major examples .
+on issue after issue , donald trump statements conflict with many obama .
+=========Case:88=========
+input:an afternoon with charles oakley , proud son of cleveland
+-------------------------
+a man is a disgrace , but little oversight wants to do you to be considered for a clown !
+a new hampshire farmhouse offers support their work . the washington post , but the afghan woman in the world
+a dead of life , two years old in central
+=========Case:89=========
+input:google &apos;s ai creates its own inhuman encryption
+-------------------------
+ai # ai creates its own inhuman encryption
+google will display # ai and the first minister
+google ai translation tool seems to have invented its own secret internal language
+=========Case:90=========
+input:a complete and updated list of all the sexual assault allegations against donald trump
+-------------------------
+a complete and updated list of all the sexual assault allegations against donald trump
+a complete and updated list of all the sexual assault allegations against donald trump
+a complete and updated list of all the sexual assault allegations against donald trump
+=========Case:91=========
+input:toronto star compiles list of almost 500 trump lies during the campaign
+-------------------------
+toronto star compiles list of almost 500 trump lies during the campaign
+toronto star compiles list of almost 500 trump lies during the campaign
+toronto star compiles list of almost 500 trump lies during campaign
+=========Case:92=========
+input:a complete and updated list of all the sexual assault allegations against donald trump
+-------------------------
+a complete and updated list of all the sexual assault allegations against donald trump
+a complete and updated list of all the sexual assault allegations against donald trump
+a complete and updated list of all the sexual assault allegations against donald trump
+=========Case:93=========
+input:what 5 colleges are doing to control student drinking and how students continue to sip , gulp and chug anyway
+-------------------------
+donald trump is a better way to use snapchat , and social media
+what 5 colleges are doing to student drinking and student debt and to sip , gulp and chug anyway
+no , @ nytimes this pesticide is prohibited in britain . but it will be sold in the u.s. and elsewhere
+=========Case:94=========
+input:what a donald trump presidency means for the supreme court
+-------------------------
+what a donald trump presidency means for the supreme court
+what a donald trump presidency means for the supreme court
+what time to stop illegally in the democrats , a democrats , a federal government
+=========Case:95=========
+input:new york &apos;s metropolitan opera halts show over powder sprinkle
+-------------------------
+metropolitan opera cancels performance after white substance is tossed into orchestra pit
+new york times stunning new roof found guilty of murders
+new york times metropolitan opera halts show in their own
+=========Case:96=========
+input:while bricks @-@ and @-@ mortar retailers cut jobs , amazon said it would add 100,000 workers
+-------------------------
+because they @-@ use @-@ interest flights , and cut it to help kids , find
+can not forget , but it will treat the worst state , but not so much better .
+as twitter cracks down on # halloween used to be about finding true love .
+=========Case:97=========
+input:my trump @-@ supporting dad and i made a pact not to talk politics . i broke it on friday
+-------------------------
+the trump @-@ supporting dad and i made my musket &quot ; i made it a &quot ; a loser &quot ; in 1998
+my trump @-@ supporting dad and i made a pact not to talk politics . then came the sex assault .
+my trump @-@ supporting dad and i made a pact not to talk politics . i broke it on friday
+=========Case:98=========
+input:sneaks out of event early as constituents try to ask about aca repeal
+-------------------------
+we are not planning on erecting a deportation force . donald trump said in the campaign
+to give up trump to use snapchat @-@ digit rate hikes , trump , democrats can repeal
+sneaks out of obamacare repeal as constituents try to repeal on aca repeal
+=========Case:99=========
+input:the earth has lost more than half its animals since 1970
+-------------------------
+the earth has lost more than half its animals since 1970
+the earth has lost more than half its animals since 1970 .
+the earth has lost more than half of animals since 1970
